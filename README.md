@@ -13,7 +13,7 @@
 - Компоненты `card`, `btn`, `badge`, `alert`, `modal`, `form-control`, `table`.
 
 ## Ссылка на GitHub Pages
-
+[https://darkyoutube.github.io/Exam2_FrontEnd-Backend](https://darkyoutube.github.io/Exam2_FrontEnd-Backend/)
 
 ## Используемые технологии
 - HTML
